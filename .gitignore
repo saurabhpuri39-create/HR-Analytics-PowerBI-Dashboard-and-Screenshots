@@ -1,6 +1,0 @@
-# Local temporary files
-*.pbix.lock
-*.tmp
-~$*
-.DS_Store
-Thumbs.db
