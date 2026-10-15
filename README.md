@@ -188,8 +188,6 @@ HR-Analytics-PowerBI-Dashboard-and-Screenshots/
 └── .gitignore
 ```
 
-*Screenshot filenames are preserved exactly as provided, including the spelling `Retension` in the fifth filename.*
-
 ## How to Open the PBIX File
 
 1. Install **Microsoft Power BI Desktop**.
@@ -202,13 +200,6 @@ HR-Analytics-PowerBI-Dashboard-and-Screenshots/
 
 **Saurabh Puri**
 
+
 **Skills demonstrated:** Power BI, Power Query, DAX, data modeling, HR analytics, KPI design, and data storytelling.
-
-## Limitations and Responsible Use
-
-- Findings are descriptive and do not establish causality.
-- The retention-risk categories are illustrative rules, not validated forecasts.
-- Dataset currency units are not specified.
-- Employee-level information should be handled in accordance with privacy and organizational policies.
-- Some visual titles or percentage formats in the provided screenshots may require final polishing in Power BI.
 
